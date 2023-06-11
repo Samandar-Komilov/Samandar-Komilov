@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samandar-komilov" alt="samandar-komilov" /></a> </p>
 
-- 🌱 I’m currently learning **C, React and DRF**
+- 🌱 I’m currently learning **C language and DRF**
 
 - 📝 I regularly write articles on [https://t.me/onexosphere](https://t.me/onexosphere)
 
