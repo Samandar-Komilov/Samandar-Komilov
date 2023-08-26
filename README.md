@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samandar-komilov" alt="samandar-komilov" /></a> </p>
 
-- 🌱 I’m currently learning **C/C++, DRF and FastAPI**
+- 🌱 I’m currently learning **C, Java, DRF and FastAPI**
 
 - 📝 I regularly write articles on [Dev.to](https://dev.to/samandarkomilov/)
 
