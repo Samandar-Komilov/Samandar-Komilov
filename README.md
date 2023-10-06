@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samandar-komilov" alt="samandar-komilov" /></a> </p>
 
-- 🌱 I’m currently learning **C, Java, DRF and FastAPI**
+- 🌱 I’m currently learning **Data Structures and Algorithms using C/C++ and Java**
 
 - 📝 I regularly write articles on [Dev.to](https://dev.to/samandarkomilov/)
 
-- 💬 Ask me about **Python, Django and C/C++**
-
-- 📫 How to reach me **samandar.komilov@proton.me**
+- 📫 How to reach me **komilov.samandar07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
