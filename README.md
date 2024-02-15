@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Samandar Komilov</h1>
-<h3 align="center">Embedded Systems Student from Uzbekistan</h3>
+<h3 align="center">ICT student at Turin Polytechnic University in Tashkent!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samandar-komilov&label=Profile%20views&color=0e75b6&style=flat" alt="samandar-komilov" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samandar-komilov" alt="samandar-komilov" /></a> </p>
 
-- 🔭 I’m currently working on [nRF BLE](https://github.com/Samandar-Komilov/ESL-project/)
+- 🔭 I’m currently working on []()
 
-- 🌱 I’m currently learning **C, Embedded systems, DSA**
+- 🌱 I’m currently learning **Python, Django, Computer architectures**
 
-- 📝 I regularly write articles on [https://dev.to/samandarkomilov/](https://dev.to/samandarkomilov/)
+- 📝 I regularly write articles on [Dev.to](https://dev.to/samandarkomilov/) and [Medium](https://medium.com/@samandar.komilov)
 
-- 💬 Ask me about **C lang**
+- 💬 Ask me about **C and Python**
 
 - 📫 How to reach me **komilov.samandar07@gmail.com**
 
-- ⚡ Fun fact **I really like History**
+- ⚡ Fun fact **I really like Geopolitical History**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
