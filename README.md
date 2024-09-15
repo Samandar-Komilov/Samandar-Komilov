@@ -1,27 +1,35 @@
-# 💫 About Me:
-🔭 I’m currently working on Oberoon - Python WSGI framework<br>👯 I’m looking to collaborate on solving LeetCode/Codeforces problems<br>🌱 I’m currently learning Python, FastAPI, DSA<br>💬 Ask me about History<br>⚡ Fun fact My favourite cartoon is Kung Fu Panda 🐼
+<h1 align="center">Hi 👋, I'm Samandar</h1>
+<h3 align="center">A passionate Python Developer, Systems Engineering fan</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samandar-komilov&label=Profile%20views&color=00c20d&style=flat" alt="samandar-komilov" /> </p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/instagram.com/komilov.s_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/samandar-komilov) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@samandar.komilov) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pinterest.com/samandarkomilov1/) 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samandar-komilov" alt="samandar-komilov" /></a> </p>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Samandar-Komilov&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Samandar-Komilov&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samandar-Komilov&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 🔭 I’m currently working on **"Create your own" projects**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Samandar-Komilov&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+- 🌱 I’m currently learning **Odoo, Operating Systems, Computer Networks**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- 👯 I’m looking to collaborate on **Practicing DSA by creating projects**
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Samandar-Komilov&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- 📝 I regularly write articles on [t.me/voidplog](t.me/voidplog)
 
----
-[![](https://visitcount.itsvg.in/api?id=Samandar-Komilov&icon=1&color=13)](https://visitcount.itsvg.in)
+- 💬 Ask me about **Python, Django, FastAPI, Odoo**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 📫 How to reach me **s.komilov@uic.group**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/samandar_komilov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="samandar_komilov" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/samandar-komilov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samandar-komilov" height="30" width="40" /></a>
+<a href="https://hashnode.com/@voidp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@voidp" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/samandar_komilov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samandar_komilov" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samandar-komilov&show_icons=true&locale=en&layout=compact" alt="samandar-komilov" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samandar-komilov&show_icons=true&locale=en" alt="samandar-komilov" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samandar-komilov&" alt="samandar-komilov" /></p>
