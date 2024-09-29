@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Python, Django, FastAPI, Odoo**
 
-- 📫 How to reach me **s.komilov@uic.group**
+- 📫 How to reach me **komilov.samandar07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
