@@ -7,13 +7,11 @@
 
 - 🔭 I’m currently working on **"Create your own" projects**
 
-- 🌱 I’m currently learning **Odoo, Operating Systems, Computer Networks**
+- 🌱 I’m currently learning **Operating Systems, Computer Networks and Go**
 
 - 👯 I’m looking to collaborate on **Practicing DSA by creating projects**
 
 - 📝 I regularly write articles on [t.me/voidplog](t.me/voidplog)
-
-- 💬 Ask me about **Python, Django, FastAPI, Odoo**
 
 - 📫 How to reach me **komilov.samandar07@gmail.com**
 
