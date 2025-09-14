@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building a web server similar to nginx.<br>👯 I’m looking to collaborate on learning DSA & System Design.<br>🌱 I’m currently learning Golang and Linux.
+🔭 I’m currently working on building a modern cloud-native web server similar to Traefik.<br>👯 I’m looking to collaborate on learning DSA & System Design.<br>🌱 I’m currently learning Golang and Linux.
 
 
 ## 🌐 Socials:
