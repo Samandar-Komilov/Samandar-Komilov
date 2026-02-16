@@ -1,6 +1,11 @@
 ![Header Banner](./img/github-header-banner.png)
 
-🔭 Currently working on internalizing Systems Thinking and invariant-based reasoning.<br>👯 Looking to collaborate on learning DSA & System Design.<br>🌱 Currently learning Rust and OCaml.
+## About Me
+
+🔭 I enjoy building systems. Perfectionism follows me, but I’m not afraid to hit the wall and learn through mistakes.
+❤️ I’m especially drawn to system programming — always asking “why?” and “what’s happening under the hood?”. My first love is C.
+🌱 I’m currently learning Rust and OCaml to practice modeling formal RFCs and building systems around invariants, not just features.
+🚀 I want to deepen my DSA and system design skills - consistency is the next challenge.
 
 ## Socials:
 
