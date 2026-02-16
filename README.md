@@ -15,13 +15,16 @@
 
 <!--START_SECTION:waka-->
 
-```rust
-From: 22 February 2023 - To: 15 February 2026
+```txt
+From: 08 February 2026 - To: 15 February 2026
 
-Total Time: 1,350 hrs 8 mins
+Total Time: 34 hrs 39 mins
 
-Python                     913 hrs 33 mins █████████████░░░░░░░░░░░░   51.57 %
-Other                      421 hrs 18 mins ██████░░░░░░░░░░░░░░░░░░░   23.78 %
+Python        29 hrs 16 mins  █████████████████████░░░░   83.97 %
+C             2 hrs 13 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
+Markdown      2 hrs 3 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 %
+Bash          44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+Other         11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 ```
 
 <!--END_SECTION:waka-->
