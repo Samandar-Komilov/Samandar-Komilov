@@ -14,6 +14,16 @@
 ### Wakatime Stats
 
 <!--START_SECTION:waka-->
+
+```rust
+From: 22 February 2023 - To: 15 February 2026
+
+Total Time: 1,350 hrs 8 mins
+
+Python                     913 hrs 33 mins █████████████░░░░░░░░░░░░   51.57 %
+Other                      421 hrs 18 mins ██████░░░░░░░░░░░░░░░░░░░   23.78 %
+```
+
 <!--END_SECTION:waka-->
 
 ### Random Dev Quote
