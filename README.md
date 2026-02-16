@@ -14,6 +14,16 @@
 ### Wakatime Stats
 
 <!--START_SECTION:waka-->
+
+```rust
+From: 22 February 2023 - To: 15 February 2026
+
+Total Time: 1,350 hrs 8 mins
+
+Python                     913 hrs 33 mins █████████████░░░░░░░░░░░░   51.57 %
+Other                      421 hrs 18 mins ██████░░░░░░░░░░░░░░░░░░░   23.78 %
+```
+
 <!--END_SECTION:waka-->
 
 ### Random Dev Quote
@@ -23,8 +33,18 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SQL Joinlar qanday ishlaydi? Postgresda EXPLAIN ANALYZE va Pythonda simulation](https://medium.com/@samandar.komilov/sql-joinlar-qanday-ishlaydi-postgresda-explain-analyze-va-pythonda-simulation-428e059ddace?source=rss-f359fabb2419------2)
+- [Database Dizaynda Kalitlar: Hamma Joyda Kalit! 🗝](https://dev.to/samandar_komilov/database-dizaynda-kalitlar-hamma-joyda-kalit-5e36)
+- [Magic Tuples in Odoo: easily manage records in One2many and Many2many relationships](https://medium.com/@samandar.komilov/magic-tuples-in-odoo-easily-manage-records-in-one2many-and-many2many-relationships-f741dcb36e23?source=rss-f359fabb2419------2)
+- [Understanding SQL Joins and Grouping using Set Theory](https://dev.to/samandar_komilov/understanding-sql-joins-and-grouping-using-set-theory-i58)
+- [A Quick Way to Customize Authentication Backends, User Manager, User and Permissions in Django](https://medium.com/django-unleashed/a-quick-way-to-customize-authentication-backends-user-manager-user-and-permissions-in-django-54f9359e31eb?source=rss-f359fabb2419------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com/UIC-Academy/chesnokuz/pull/2) in [UIC-Academy/chesnokuz](https://github.com/UIC-Academy/chesnokuz)
+2. 💪 Opened PR [#2](https://github.com/UIC-Academy/chesnokuz/pull/2) in [UIC-Academy/chesnokuz](https://github.com/UIC-Academy/chesnokuz)
+3. 🎉 Merged PR [#1](https://github.com/UIC-Academy/chesnokuz/pull/1) in [UIC-Academy/chesnokuz](https://github.com/UIC-Academy/chesnokuz)
+4. 💪 Opened PR [#1](https://github.com/UIC-Academy/chesnokuz/pull/1) in [UIC-Academy/chesnokuz](https://github.com/UIC-Academy/chesnokuz)
+<!--END_SECTION:activity-->
