@@ -1,6 +1,5 @@
-# About Me:
+![Header Banner](./img/github-header-banner.png)
 
-💻 System Programming Enthusiast, Open-Source lover.<br>
 🔭 Currently working on internalizing Systems Thinking and invariant-based reasoning.<br>👯 Looking to collaborate on learning DSA & System Design.<br>🌱 Currently learning Rust and OCaml.
 
 ## Socials:
@@ -40,6 +39,10 @@ Other         11 mins         ░░░░░░░░░░░░░░░░�
 ## Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+## Telegram Channel
+
+<img src="https://telegram-card.vercel.app/?username=voidplog" alt="@voidplog" style="width: 300px; max-width: 100%; height: auto;" />
 
 ## Latest Blog Posts
 
