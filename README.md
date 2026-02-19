@@ -63,8 +63,8 @@ Other         12 mins               ▒░░░░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#9](https://github.com/Samandar-Komilov/TinkerHub/pull/9) in [Samandar-Komilov/TinkerHub](https://github.com/Samandar-Komilov/TinkerHub)
-2. 🎉 Merged PR [#2](https://github.com/UIC-Academy/chesnokuz/pull/2) in [UIC-Academy/chesnokuz](https://github.com/UIC-Academy/chesnokuz)
-3. 💪 Opened PR [#2](https://github.com/UIC-Academy/chesnokuz/pull/2) in [UIC-Academy/chesnokuz](https://github.com/UIC-Academy/chesnokuz)
-4. 🎉 Merged PR [#1](https://github.com/UIC-Academy/chesnokuz/pull/1) in [UIC-Academy/chesnokuz](https://github.com/UIC-Academy/chesnokuz)
+1. 🎉 Merged PR [#9](https://github.com/Samandar-Komilov/TinkerHub/pull/9) in [Samandar-Komilov/TinkerHub](https://github.com/Samandar-Komilov/TinkerHub)
+2. 💪 Opened PR [#9](https://github.com/Samandar-Komilov/TinkerHub/pull/9) in [Samandar-Komilov/TinkerHub](https://github.com/Samandar-Komilov/TinkerHub)
+3. 🎉 Merged PR [#2](https://github.com/UIC-Academy/chesnokuz/pull/2) in [UIC-Academy/chesnokuz](https://github.com/UIC-Academy/chesnokuz)
+4. 💪 Opened PR [#2](https://github.com/UIC-Academy/chesnokuz/pull/2) in [UIC-Academy/chesnokuz](https://github.com/UIC-Academy/chesnokuz)
 <!--END_SECTION:activity-->
