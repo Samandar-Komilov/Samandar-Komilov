@@ -63,8 +63,8 @@ Other         16 mins               ▒░░░░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#3](https://github.com/UIC-Academy/chesnokuz/pull/3) in [UIC-Academy/chesnokuz](https://github.com/UIC-Academy/chesnokuz)
-2. 💪 Opened PR [#3](https://github.com/UIC-Academy/chesnokuz/pull/3) in [UIC-Academy/chesnokuz](https://github.com/UIC-Academy/chesnokuz)
-3. 🎉 Merged PR [#10](https://github.com/Samandar-Komilov/TinkerHub/pull/10) in [Samandar-Komilov/TinkerHub](https://github.com/Samandar-Komilov/TinkerHub)
-4. 💪 Opened PR [#10](https://github.com/Samandar-Komilov/TinkerHub/pull/10) in [Samandar-Komilov/TinkerHub](https://github.com/Samandar-Komilov/TinkerHub)
+1. 🎉 Merged PR [#9](https://github.com/UIC-Academy/foodify/pull/9) in [UIC-Academy/foodify](https://github.com/UIC-Academy/foodify)
+2. 💪 Opened PR [#9](https://github.com/UIC-Academy/foodify/pull/9) in [UIC-Academy/foodify](https://github.com/UIC-Academy/foodify)
+3. 🎉 Merged PR [#1](https://github.com/UIC-Academy/foodify/pull/1) in [UIC-Academy/foodify](https://github.com/UIC-Academy/foodify)
+4. 💪 Opened PR [#1](https://github.com/UIC-Academy/foodify/pull/1) in [UIC-Academy/foodify](https://github.com/UIC-Academy/foodify)
 <!--END_SECTION:activity-->
