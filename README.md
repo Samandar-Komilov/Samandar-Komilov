@@ -51,7 +51,6 @@ Other         12 mins               ▒░░░░░░░░░░░░░�
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [SQL Joinlar qanday ishlaydi? Postgresda EXPLAIN ANALYZE va Pythonda simulation](https://medium.com/@samandar.komilov/sql-joinlar-qanday-ishlaydi-postgresda-explain-analyze-va-pythonda-simulation-428e059ddace?source=rss-f359fabb2419------2)
 - [Database Dizaynda Kalitlar: Hamma Joyda Kalit! 🗝](https://dev.to/samandar_komilov/database-dizaynda-kalitlar-hamma-joyda-kalit-5e36)
 - [Magic Tuples in Odoo: easily manage records in One2many and Many2many relationships](https://medium.com/@samandar.komilov/magic-tuples-in-odoo-easily-manage-records-in-one2many-and-many2many-relationships-f741dcb36e23?source=rss-f359fabb2419------2)
