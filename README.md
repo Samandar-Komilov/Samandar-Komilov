@@ -28,15 +28,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 February 2026 - To: 15 February 2026
+From: 14 February 2026 - To: 21 February 2026
 
-Total Time: 34 hrs 39 mins
+Total Time: 27 hrs 3 mins
 
-Python        29 hrs 16 mins  █████████████████████░░░░   83.97 %
-C             2 hrs 13 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
-Markdown      2 hrs 3 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 %
-Bash          44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
-Other         11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Python        21 hrs 2 mins         ███████████████████▒░░░░░   77.17 %
+Markdown      2 hrs 30 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
+C             2 hrs 7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 %
+Other         12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
 ```
 
 <!--END_SECTION:waka-->
@@ -52,10 +51,19 @@ Other         11 mins         ░░░░░░░░░░░░░░░░�
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [SQL Joinlar qanday ishlaydi? Postgresda EXPLAIN ANALYZE va Pythonda simulation](https://medium.com/@samandar.komilov/sql-joinlar-qanday-ishlaydi-postgresda-explain-analyze-va-pythonda-simulation-428e059ddace?source=rss-f359fabb2419------2)
 - [Database Dizaynda Kalitlar: Hamma Joyda Kalit! 🗝](https://dev.to/samandar_komilov/database-dizaynda-kalitlar-hamma-joyda-kalit-5e36)
 - [Magic Tuples in Odoo: easily manage records in One2many and Many2many relationships](https://medium.com/@samandar.komilov/magic-tuples-in-odoo-easily-manage-records-in-one2many-and-many2many-relationships-f741dcb36e23?source=rss-f359fabb2419------2)
 - [Understanding SQL Joins and Grouping using Set Theory](https://dev.to/samandar_komilov/understanding-sql-joins-and-grouping-using-set-theory-i58)
 - [A Quick Way to Customize Authentication Backends, User Manager, User and Permissions in Django](https://medium.com/django-unleashed/a-quick-way-to-customize-authentication-backends-user-manager-user-and-permissions-in-django-54f9359e31eb?source=rss-f359fabb2419------2)
 <!-- BLOG-POST-LIST:END -->
+
+## Recent Activity
+
+<!--START_SECTION:activity-->
+
+1. 🎉 Merged PR [#9](https://github.com/UIC-Academy/foodify/pull/9) in [UIC-Academy/foodify](https://github.com/UIC-Academy/foodify)
+2. 💪 Opened PR [#9](https://github.com/UIC-Academy/foodify/pull/9) in [UIC-Academy/foodify](https://github.com/UIC-Academy/foodify)
+3. 🎉 Merged PR [#1](https://github.com/UIC-Academy/foodify/pull/1) in [UIC-Academy/foodify](https://github.com/UIC-Academy/foodify)
+4. 💪 Opened PR [#1](https://github.com/UIC-Academy/foodify/pull/1) in [UIC-Academy/foodify](https://github.com/UIC-Academy/foodify)
+<!--END_SECTION:activity-->
