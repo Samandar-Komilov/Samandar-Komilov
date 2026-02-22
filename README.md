@@ -59,13 +59,3 @@ Other         11 mins         ░░░░░░░░░░░░░░░░�
 - [Understanding SQL Joins and Grouping using Set Theory](https://dev.to/samandar_komilov/understanding-sql-joins-and-grouping-using-set-theory-i58)
 - [A Quick Way to Customize Authentication Backends, User Manager, User and Permissions in Django](https://medium.com/django-unleashed/a-quick-way-to-customize-authentication-backends-user-manager-user-and-permissions-in-django-54f9359e31eb?source=rss-f359fabb2419------2)
 <!-- BLOG-POST-LIST:END -->
-
-## Recent Activity
-
-<!--START_SECTION:activity-->
-
-1. 🎉 Merged PR [#2](https://github.com/UIC-Academy/chesnokuz/pull/2) in [UIC-Academy/chesnokuz](https://github.com/UIC-Academy/chesnokuz)
-2. 💪 Opened PR [#2](https://github.com/UIC-Academy/chesnokuz/pull/2) in [UIC-Academy/chesnokuz](https://github.com/UIC-Academy/chesnokuz)
-3. 🎉 Merged PR [#1](https://github.com/UIC-Academy/chesnokuz/pull/1) in [UIC-Academy/chesnokuz](https://github.com/UIC-Academy/chesnokuz)
-4. 💪 Opened PR [#1](https://github.com/UIC-Academy/chesnokuz/pull/1) in [UIC-Academy/chesnokuz](https://github.com/UIC-Academy/chesnokuz)
-<!--END_SECTION:activity-->
