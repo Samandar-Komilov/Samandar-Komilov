@@ -28,14 +28,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 February 2026 - To: 05 March 2026
+From: 27 February 2026 - To: 06 March 2026
 
-Total Time: 24 hrs 5 mins
+Total Time: 29 hrs 53 mins
 
-Python       19 hrs 27 mins        ████████████████████░░░░░   80.61 %
-Markdown     3 hrs 47 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.73 %
-SQL          46 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
-Other        2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Python       23 hrs 10 mins        ███████████████████▒░░░░░   77.43 %
+Markdown     5 hrs 3 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.89 %
+SQL          46 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
+C            13 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+HTML         6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Makefile     3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+CMake        3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Other        3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
