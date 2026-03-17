@@ -28,16 +28,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 March 2026 - To: 15 March 2026
+From: 09 March 2026 - To: 16 March 2026
 
-Total Time: 36 hrs 45 mins
+Total Time: 36 hrs 32 mins
 
-Python       20 hrs 7 mins         █████████████▓░░░░░░░░░░░   54.53 %
-Markdown     9 hrs 53 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.81 %
-HTML         3 hrs 5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 %
-CSS          54 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
-Bash         28 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
-TypeScript   26 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Python       21 hrs 4 mins         ██████████████▒░░░░░░░░░░   57.43 %
+Markdown     10 hrs 13 mins        ███████░░░░░░░░░░░░░░░░░░   27.87 %
+HTML         2 hrs 29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
+Bash         30 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+TypeScript   26 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
 Go           26 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
 Makefile     21 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
 MDX          9 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
