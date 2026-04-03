@@ -28,18 +28,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 March 2026 - To: 01 April 2026
+From: 26 March 2026 - To: 02 April 2026
 
-Total Time: 10 hrs 54 mins
+Total Time: 8 hrs 48 mins
 
-Python            6 hrs 39 mins         ███████████████▒░░░░░░░░░   61.07 %
-Markdown          2 hrs 32 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.23 %
-TypeScript        48 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
-Bash              11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
-HTML              9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
-Gettext Catalog   2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-Docker            0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-Git Config        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Python            5 hrs 59 mins         █████████████████░░░░░░░░   67.93 %
+Markdown          1 hr 39 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.74 %
+TypeScript        21 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
+Bash              11 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+HTML              9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+Rust              8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+Gettext Catalog   2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Git Config        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
