@@ -51,9 +51,9 @@ Other        23 mins               █▓░░░░░░░░░░░░░
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Process, Thread and Async: what the CPU actually runs?](https://medium.com/@samandar.komilov/process-thread-and-async-what-the-cpu-actually-runs-7ddd0bd33044?source=rss-f359fabb2419------2)
 - [SQL Joinlar qanday ishlaydi? Postgresda EXPLAIN ANALYZE va Pythonda simulation](https://medium.com/@samandar.komilov/sql-joinlar-qanday-ishlaydi-postgresda-explain-analyze-va-pythonda-simulation-428e059ddace?source=rss-f359fabb2419------2)
 - [Database Dizaynda Kalitlar: Hamma Joyda Kalit! 🗝](https://dev.to/samandar_komilov/database-dizaynda-kalitlar-hamma-joyda-kalit-5e36)
 - [Magic Tuples in Odoo: easily manage records in One2many and Many2many relationships](https://medium.com/@samandar.komilov/magic-tuples-in-odoo-easily-manage-records-in-one2many-and-many2many-relationships-f741dcb36e23?source=rss-f359fabb2419------2)
 - [Understanding SQL Joins and Grouping using Set Theory](https://dev.to/samandar_komilov/understanding-sql-joins-and-grouping-using-set-theory-i58)
-- [A Quick Way to Customize Authentication Backends, User Manager, User and Permissions in Django](https://medium.com/django-unleashed/a-quick-way-to-customize-authentication-backends-user-manager-user-and-permissions-in-django-54f9359e31eb?source=rss-f359fabb2419------2)
 <!-- BLOG-POST-LIST:END -->
