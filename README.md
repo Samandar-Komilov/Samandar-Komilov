@@ -28,15 +28,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 June 2026 - To: 12 June 2026
+From: 06 June 2026 - To: 13 June 2026
 
-Total Time: 31 hrs 22 mins
+Total Time: 25 hrs 53 mins
 
-Python                     13 hrs 21 mins        ██████████▒░░░░░░░░░░░░░░   41.72 %
-Markdown                   12 hrs 5 mins         █████████▒░░░░░░░░░░░░░░░   37.72 %
-Bash                       2 hrs 1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
-Nginx configuration file   43 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
-Other                      39 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+Python                     11 hrs 58 mins        ███████████▒░░░░░░░░░░░░░   45.14 %
+Markdown                   10 hrs 56 mins        ██████████▒░░░░░░░░░░░░░░   41.25 %
+Bash                       1 hr 15 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
+Other                      38 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
 ```
 
 <!--END_SECTION:waka-->
