@@ -2,9 +2,9 @@
 
 ## About Me
 
-🔭 I enjoy building systems. Perfectionism follows me, but I’m not afraid to hit the wall and learn through mistakes.<br>
-❤️ I’m especially drawn to system programming — always asking “why?” and “what’s happening under the hood?”. My first love is C.<br>
-🌱 I’m currently learning Rust and OCaml to practice modeling formal RFCs and building systems around invariants, not just features.<br>
+🔭 I enjoy building systems. Perfectionism blocks me sometimes, but I’m not afraid to hit the wall and learn through mistakes.<br>
+❤️ I’m especially drawn to system programming - always asking “why?” and “what’s happening under the hood?”. My first love is C.<br>
+🌱 I’m currently learning invariants, state machines and to build systems following formal RFCs.<br>
 🚀 I want to deepen my DSA and system design skills - consistency is the next challenge.<br>
 
 ## Socials:
@@ -13,7 +13,7 @@
 
 ## Tech Stack:
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ## Profile Summary Cards
 
