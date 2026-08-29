@@ -28,15 +28,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 August 2026 - To: 27 August 2026
+From: 21 August 2026 - To: 28 August 2026
 
-Total Time: 13 hrs 22 mins
+Total Time: 10 hrs 5 mins
 
-Python                     4 hrs 53 mins         █████████░░░░░░░░░░░░░░░░   35.52 %
-Markdown                   4 hrs 26 mins         ████████░░░░░░░░░░░░░░░░░   32.23 %
-HTML                       28 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
-Bash                       26 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
-Other                      23 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+Markdown   3 hrs 53 mins         █████████▒░░░░░░░░░░░░░░░   37.30 %
+Python     2 hrs 58 mins         ███████░░░░░░░░░░░░░░░░░░   28.57 %
+Other      20 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
 ```
 
 <!--END_SECTION:waka-->
