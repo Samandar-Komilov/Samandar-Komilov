@@ -28,13 +28,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 September 2026 - To: 09 September 2026
+From: 03 September 2026 - To: 10 September 2026
 
-Total Time: 5 hrs 42 mins
+Total Time: 9 hrs 26 mins
 
-Markdown   3 hrs 25 mins         █████████████▓░░░░░░░░░░░   54.24 %
-Python     1 hr 46 mins          ███████░░░░░░░░░░░░░░░░░░   28.01 %
-Other      37 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.87 %
+Markdown     4 hrs 58 mins         █████████████░░░░░░░░░░░░   52.22 %
+Go           2 hrs 4 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.72 %
+Python       1 hr 6 mins           ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
+SQL          18 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+C            15 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+Makefile     9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+Bash         7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+Other        4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 ```
 
 <!--END_SECTION:waka-->
