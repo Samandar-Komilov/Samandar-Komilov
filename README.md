@@ -23,23 +23,6 @@
 ![](https://raw.githubusercontent.com/Samandar-Komilov/Samandar-Komilov/master/profile-summary-card-output/gruvbox/3-stats.svg)
 ![](https://raw.githubusercontent.com/Samandar-Komilov/Samandar-Komilov/master/profile-summary-card-output/gruvbox/4-productive-time.svg)
 
-## Wakatime Stats
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 14 February 2026 - To: 21 February 2026
-
-Total Time: 27 hrs 3 mins
-
-Python        21 hrs 2 mins         ███████████████████▒░░░░░   77.17 %
-Markdown      2 hrs 30 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
-C             2 hrs 7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 %
-Other         12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-```
-
-<!--END_SECTION:waka-->
-
 ## Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
