@@ -2,9 +2,9 @@
 
 ## About Me
 
-🔭 I enjoy building systems. Perfectionism follows me, but I’m not afraid to hit the wall and learn through mistakes.<br>
-❤️ I’m especially drawn to system programming — always asking “why?” and “what’s happening under the hood?”. My first love is C.<br>
-🌱 I’m currently learning Rust and OCaml to practice modeling formal RFCs and building systems around invariants, not just features.<br>
+🔭 I enjoy building systems. Perfectionism blocks me sometimes, but I’m not afraid to hit the wall and learn through mistakes.<br>
+❤️ I’m especially drawn to system programming - always asking “why?” and “what’s happening under the hood?”. My first love is C.<br>
+🌱 I’m currently learning invariants, state machines and to build systems following formal RFCs.<br>
 🚀 I want to deepen my DSA and system design skills - consistency is the next challenge.<br>
 
 ## Socials:
@@ -13,7 +13,7 @@
 
 ## Tech Stack:
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ## Profile Summary Cards
 
@@ -34,9 +34,9 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Process, Thread and Async: what the CPU actually runs?](https://medium.com/@samandar.komilov/process-thread-and-async-what-the-cpu-actually-runs-7ddd0bd33044?source=rss-f359fabb2419------2)
 - [SQL Joinlar qanday ishlaydi? Postgresda EXPLAIN ANALYZE va Pythonda simulation](https://medium.com/@samandar.komilov/sql-joinlar-qanday-ishlaydi-postgresda-explain-analyze-va-pythonda-simulation-428e059ddace?source=rss-f359fabb2419------2)
 - [Database Dizaynda Kalitlar: Hamma Joyda Kalit! 🗝](https://dev.to/samandar_komilov/database-dizaynda-kalitlar-hamma-joyda-kalit-5e36)
 - [Magic Tuples in Odoo: easily manage records in One2many and Many2many relationships](https://medium.com/@samandar.komilov/magic-tuples-in-odoo-easily-manage-records-in-one2many-and-many2many-relationships-f741dcb36e23?source=rss-f359fabb2419------2)
 - [Understanding SQL Joins and Grouping using Set Theory](https://dev.to/samandar_komilov/understanding-sql-joins-and-grouping-using-set-theory-i58)
-- [A Quick Way to Customize Authentication Backends, User Manager, User and Permissions in Django](https://medium.com/django-unleashed/a-quick-way-to-customize-authentication-backends-user-manager-user-and-permissions-in-django-54f9359e31eb?source=rss-f359fabb2419------2)
 <!-- BLOG-POST-LIST:END -->
